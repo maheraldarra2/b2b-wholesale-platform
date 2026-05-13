@@ -8,21 +8,26 @@ This project demonstrates real-world experience in building multi-role systems, 
 ---
 ## 📸 Screenshots
 
+### 🏠 Dashboard
 <p align="center">
   <img src="https://github.com/maheraldarra2/b2b-wholesale-platform/blob/main/1.jpeg" width="750">
 </p>
 
+### 🛍️ Products Page
 <p align="center">
   <img src="https://github.com/maheraldarra2/b2b-wholesale-platform/blob/main/2.jpeg" width="750">
 </p>
 
+### 📦 Orders Management
 <p align="center">
   <img src="https://github.com/maheraldarra2/b2b-wholesale-platform/blob/main/3.jpeg" width="750">
 </p>
 
+### 💳 Checkout / Payment
 <p align="center">
   <img src="https://github.com/maheraldarra2/b2b-wholesale-platform/blob/main/4.jpeg" width="750">
 </p>
+
 
 ## 👥 User Roles
 
